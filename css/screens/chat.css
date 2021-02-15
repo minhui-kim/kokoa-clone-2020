@@ -171,3 +171,7 @@
 .reply:focus-within {
     transform: translateY(80px);
 }
+
+.message__info:nth-child(2) {
+    margin-bottom: 10px;
+}
